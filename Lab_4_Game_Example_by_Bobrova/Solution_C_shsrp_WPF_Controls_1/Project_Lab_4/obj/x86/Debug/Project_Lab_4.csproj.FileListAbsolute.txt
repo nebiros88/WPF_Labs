@@ -1,0 +1,162 @@
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222\Project_Lab_4\obj\x86\Debug\App.g.cs
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222\Project_Lab_4\obj\x86\Debug\Project_Lab_4_MarkupCompile.cache
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\App.g.cs
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Project_Lab_4_MarkupCompile.cache
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\bin\Debug\Project_Lab_4.exe
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\bin\Debug\Project_Lab_4.pdb
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csprojResolveAssemblyReference.cache
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\MainWindow.baml
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\MainWindow.g.cs
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Project_Lab_4.g.resources
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Lab4.Properties.Resources.resources
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.GenerateResource.Cache
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Project_Lab_4.exe
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Project_Lab_4.pdb
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\bin\Debug\Lab4GameControls.dll
+C:\Users\dvsta\OneDrive\Рабочий стол\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\bin\Debug\Lab4GameControls.pdb
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\bin\Debug\Project_Lab_4.exe
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\bin\Debug\Project_Lab_4.pdb
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\bin\Debug\Lab4GameControls.dll
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\bin\Debug\Lab4GameControls.pdb
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csprojResolveAssemblyReference.cache
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\MainWindow.baml
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\MainWindow.g.cs
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\App.g.cs
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Project_Lab_4_MarkupCompile.cache
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Project_Lab_4.g.resources
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Lab4.Properties.Resources.resources
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.GenerateResource.Cache
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Project_Lab_4.exe
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\02. Лабораторные работы\Л.Р. №4 (---)\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_)\Project_Lab_4\obj\x86\Debug\Project_Lab_4.pdb
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.exe
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.pdb
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\bin\Debug\Project_Lab_4.exe
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\bin\Debug\Project_Lab_4.pdb
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\bin\Debug\Lab4GameControls.dll
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\bin\Debug\Lab4GameControls.pdb
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csprojResolveAssemblyReference.cache
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\MainWindow.baml
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\MainWindow.g.cs
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\App.g.cs
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4_MarkupCompile.cache
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.g.resources
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Lab4.Properties.Resources.resources
+D:\! All !. IT. BSUIR IIT\02. Предмет (3 семестр) СВПП (WPF (Windows Forms))\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.GenerateResource.Cache
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\bin\Debug\Project_Lab_4.exe
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\bin\Debug\Project_Lab_4.pdb
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\bin\Debug\Lab4GameControls.dll
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\bin\Debug\Lab4GameControls.pdb
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csprojResolveAssemblyReference.cache
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\MainWindow.baml
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\MainWindow.g.cs
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\App.g.cs
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4_MarkupCompile.cache
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.g.resources
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Lab4.Properties.Resources.resources
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.GenerateResource.Cache
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.exe
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.pdb
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\bin\Debug\Project_Lab_4.exe
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\bin\Debug\Project_Lab_4.pdb
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\bin\Debug\Lab4GameControls.dll
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\bin\Debug\Lab4GameControls.pdb
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csprojResolveAssemblyReference.cache
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\MainWindow.baml
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\MainWindow.g.cs
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\App.g.cs
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4_MarkupCompile.cache
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.g.resources
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Lab4.Properties.Resources.resources
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.GenerateResource.Cache
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.exe
+D:\C#\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2\Project_Lab_4\obj\x86\Debug\Project_Lab_4.pdb
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\obj\x86\Debug\Project_Lab_4.exe
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\obj\x86\Debug\Project_Lab_4.pdb
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\bin\Debug\Project_Lab_4.exe
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\bin\Debug\Project_Lab_4.pdb
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\bin\Debug\Lab4GameControls.dll
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\bin\Debug\Lab4GameControls.pdb
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csprojResolveAssemblyReference.cache
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\obj\x86\Debug\MainWindow.baml
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\obj\x86\Debug\MainWindow.g.cs
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\obj\x86\Debug\App.g.cs
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\obj\x86\Debug\Project_Lab_4_MarkupCompile.cache
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\obj\x86\Debug\Project_Lab_4.g.resources
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\obj\x86\Debug\Lab4.Properties.Resources.resources
+D:\03. Solution_C_shsrp_WPF_(_Visual_Studio_2010_) 222    2 - копия\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.GenerateResource.Cache
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\bin\Debug\Project_Lab_4.exe
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\bin\Debug\Project_Lab_4.pdb
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\bin\Debug\Lab4GameControls.dll
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\bin\Debug\Lab4GameControls.pdb
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csprojAssemblyReference.cache
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\obj\x86\Debug\MainWindow.baml
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\obj\x86\Debug\MainWindow.g.cs
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\obj\x86\Debug\App.g.cs
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\obj\x86\Debug\Project_Lab_4_MarkupCompile.cache
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\obj\x86\Debug\Project_Lab_4.g.resources
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\obj\x86\Debug\Lab4.Properties.Resources.resources
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.GenerateResource.cache
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.CoreCompileInputs.cache
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.CopyComplete
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\obj\x86\Debug\Project_Lab_4.exe
+D:\WPF\Solution_C_shsrp_WPF\Project_Lab_4\obj\x86\Debug\Project_Lab_4.pdb
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Project_Lab_4.exe
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Project_Lab_4.pdb
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Lab4GameControls.dll
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Lab4GameControls.pdb
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csprojAssemblyReference.cache
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\MainWindow.baml
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\MainWindow.g.cs
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\App.g.cs
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4_MarkupCompile.cache
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.g.resources
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Lab4.Properties.Resources.resources
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.GenerateResource.cache
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.CoreCompileInputs.cache
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.CopyComplete
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.exe
+H:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.pdb
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.exe
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.pdb
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Project_Lab_4.exe
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Project_Lab_4.pdb
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Lab4GameControls.dll
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Lab4GameControls.pdb
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csprojResolveAssemblyReference.cache
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\MainWindow.baml
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\MainWindow.g.cs
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\App.g.cs
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4_MarkupCompile.cache
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.g.resources
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Lab4.Properties.Resources.resources
+E:\БГУИР\WPF\показать_лаб\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.GenerateResource.Cache
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.exe
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.pdb
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Project_Lab_4.exe
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Project_Lab_4.pdb
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Lab4GameControls.dll
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Lab4GameControls.pdb
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csprojResolveAssemblyReference.cache
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\MainWindow.baml
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\MainWindow.g.cs
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\App.g.cs
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4_MarkupCompile.cache
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.g.resources
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Lab4.Properties.Resources.resources
+E:\4\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.GenerateResource.Cache
+D:\Общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.exe
+D:\Общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.pdb
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.exe
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.pdb
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Project_Lab_4.exe
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Project_Lab_4.pdb
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Lab4GameControls.dll
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\bin\Debug\Lab4GameControls.pdb
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csprojResolveAssemblyReference.cache
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\MainWindow.baml
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\MainWindow.g.cs
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\App.g.cs
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4_MarkupCompile.cache
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.g.resources
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Lab4.Properties.Resources.resources
+\\7-605-00\общая папка\WPF\Solution_C_shsrp_WPF_Controls_1\Project_Lab_4\obj\x86\Debug\Project_Lab_4.csproj.GenerateResource.Cache

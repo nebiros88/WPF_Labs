@@ -1,0 +1,279 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{C0E78DF3-0A07-4759-B92C-E3CB50FAB70B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Project_Lab_4_Controls</RootNamespace>
+    <AssemblyName>Project_Lab_4_Controls</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="Panzer.cs" />
+    <Compile Include="Scene.cs" />
+    <Page Include="Labs\Lab4GameControls\GameControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Labs\Lab4Game\App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Labs\Lab4Game\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Labs\Lab5\About.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Labs\Lab5\App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Labs\Lab5\BrushDialog.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Labs\Lab5\BrushDialog2.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="Labs\Lab5\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="GameControl.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Bomb.cs" />
+    <Compile Include="Bomber.cs" />
+    <Compile Include="Counter.cs" />
+    <Compile Include="GameCommands.cs" />
+    <Compile Include="GameObject.cs" />
+    <Compile Include="Labs\Lab4GameControls\Bomb.cs" />
+    <Compile Include="Labs\Lab4GameControls\Bomber.cs" />
+    <Compile Include="Labs\Lab4GameControls\Counter.cs" />
+    <Compile Include="Labs\Lab4GameControls\GameCommands.cs" />
+    <Compile Include="Labs\Lab4GameControls\GameControl.xaml.cs">
+      <DependentUpon>GameControl.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Labs\Lab4GameControls\GameObject.cs" />
+    <Compile Include="Labs\Lab4GameControls\obj\Debug\GameControl.g.cs" />
+    <Compile Include="Labs\Lab4GameControls\obj\Debug\GameControl.g.i.cs" />
+    <Compile Include="Labs\Lab4GameControls\obj\Debug\GeneratedInternalTypeHelper.g.cs" />
+    <Compile Include="Labs\Lab4GameControls\obj\Debug\GeneratedInternalTypeHelper.g.i.cs" />
+    <Compile Include="Labs\Lab4GameControls\Panzer.cs" />
+    <Compile Include="Labs\Lab4GameControls\Properties\AssemblyInfo.cs" />
+    <Compile Include="Labs\Lab4GameControls\Properties\Resources.Designer.cs" />
+    <Compile Include="Labs\Lab4GameControls\Properties\Settings.Designer.cs" />
+    <Compile Include="Labs\Lab4GameControls\Scene.cs" />
+    <Compile Include="Labs\Lab4Game\App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Labs\Lab4Game\MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Labs\Lab4Game\obj\x86\Debug\App.g.cs" />
+    <Compile Include="Labs\Lab4Game\obj\x86\Debug\App.g.i.cs" />
+    <Compile Include="Labs\Lab4Game\obj\x86\Debug\MainWindow.g.cs" />
+    <Compile Include="Labs\Lab4Game\obj\x86\Debug\MainWindow.g.i.cs" />
+    <Compile Include="Labs\Lab4Game\Properties\AssemblyInfo.cs" />
+    <Compile Include="Labs\Lab4Game\Properties\Resources.Designer.cs" />
+    <Compile Include="Labs\Lab4Game\Properties\Settings.Designer.cs" />
+    <Compile Include="Labs\Lab5\About.xaml.cs">
+      <DependentUpon>About.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Labs\Lab5\App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Labs\Lab5\BrushDialog.xaml.cs">
+      <DependentUpon>BrushDialog.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Labs\Lab5\BrushDialog2.xaml.cs">
+      <DependentUpon>BrushDialog2.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Labs\Lab5\BrushParamsContext2.cs" />
+    <Compile Include="Labs\Lab5\MainContext.cs" />
+    <Compile Include="Labs\Lab5\MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Labs\Lab5\obj\x86\Debug\About.g.cs" />
+    <Compile Include="Labs\Lab5\obj\x86\Debug\About.g.i.cs" />
+    <Compile Include="Labs\Lab5\obj\x86\Debug\App.g.cs" />
+    <Compile Include="Labs\Lab5\obj\x86\Debug\App.g.i.cs" />
+    <Compile Include="Labs\Lab5\obj\x86\Debug\BrushDialog.g.cs" />
+    <Compile Include="Labs\Lab5\obj\x86\Debug\BrushDialog.g.i.cs" />
+    <Compile Include="Labs\Lab5\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs" />
+    <Compile Include="Labs\Lab5\obj\x86\Debug\GeneratedInternalTypeHelper.g.i.cs" />
+    <Compile Include="Labs\Lab5\obj\x86\Debug\MainWindow.g.cs" />
+    <Compile Include="Labs\Lab5\obj\x86\Debug\MainWindow.g.i.cs" />
+    <Compile Include="Labs\Lab5\ProgramCommands.cs" />
+    <Compile Include="Labs\Lab5\Properties\AssemblyInfo.cs" />
+    <Compile Include="Labs\Lab5\Properties\Resources.Designer.cs" />
+    <Compile Include="Labs\Lab5\Properties\Settings.Designer.cs" />
+    <Compile Include="Labs\Lab5\ShapeData.cs" />
+    <Compile Include="GameControl.xaml.cs">
+      <DependentUpon>GameControl.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Labs\Lab4GameControls\obj\Debug\Lab4GameControls.g.resources" />
+    <EmbeddedResource Include="Labs\Lab4GameControls\obj\Debug\Lab4GameControls.Properties.Resources.resources" />
+    <EmbeddedResource Include="Labs\Lab4GameControls\Properties\Resources.resx" />
+    <EmbeddedResource Include="Labs\Lab4Game\obj\x86\Debug\Lab4Game.g.resources" />
+    <EmbeddedResource Include="Labs\Lab4Game\obj\x86\Debug\Lab4Game.Properties.Resources.resources" />
+    <EmbeddedResource Include="Labs\Lab4Game\Properties\Resources.resx" />
+    <EmbeddedResource Include="Labs\Lab5\obj\x86\Debug\Lab5.g.resources" />
+    <EmbeddedResource Include="Labs\Lab5\obj\x86\Debug\Lab5.Properties.Resources.resources" />
+    <EmbeddedResource Include="Labs\Lab5\Properties\Resources.resx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="Labs\Lab4GameControls\obj\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="Labs\Lab4GameControls\obj\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Labs\Lab4GameControls\obj\Debug\GameControl.baml" />
+    <None Include="Labs\Lab4GameControls\obj\Debug\Lab4GameControls.csproj.GenerateResource.Cache" />
+    <None Include="Labs\Lab4GameControls\obj\Debug\Lab4GameControls_MarkupCompile.cache" />
+    <None Include="Labs\Lab4GameControls\obj\Debug\Lab4GameControls_MarkupCompile.i.cache" />
+    <None Include="Labs\Lab4GameControls\obj\Debug\Lab4GameControls_MarkupCompile.lref" />
+    <None Include="Labs\Lab4GameControls\Properties\Settings.settings" />
+    <None Include="Labs\Lab4Game\bin\Debug\Lab4Game.vshost.exe.manifest" />
+    <None Include="Labs\Lab4Game\obj\x86\Debug\DesignTimeResolveAssemblyReferences.cache" />
+    <None Include="Labs\Lab4Game\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Labs\Lab4Game\obj\x86\Debug\Lab4Game.csproj.GenerateResource.Cache" />
+    <None Include="Labs\Lab4Game\obj\x86\Debug\Lab4Game.csprojResolveAssemblyReference.cache" />
+    <None Include="Labs\Lab4Game\obj\x86\Debug\Lab4Game_MarkupCompile.cache" />
+    <None Include="Labs\Lab4Game\obj\x86\Debug\Lab4Game_MarkupCompile.i.cache" />
+    <None Include="Labs\Lab4Game\obj\x86\Debug\MainWindow.baml" />
+    <None Include="Labs\Lab4Game\Properties\Settings.settings" />
+    <None Include="Labs\Lab5\bin\Debug\Lab5.vshost.exe.manifest" />
+    <None Include="Labs\Lab5\obj\x86\Debug\About.baml" />
+    <None Include="Labs\Lab5\obj\x86\Debug\App.baml" />
+    <None Include="Labs\Lab5\obj\x86\Debug\BrushDialog.baml" />
+    <None Include="Labs\Lab5\obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="Labs\Lab5\obj\x86\Debug\Lab5.csproj.GenerateResource.Cache" />
+    <None Include="Labs\Lab5\obj\x86\Debug\Lab5_MarkupCompile.cache" />
+    <None Include="Labs\Lab5\obj\x86\Debug\Lab5_MarkupCompile.i.cache" />
+    <None Include="Labs\Lab5\obj\x86\Debug\Lab5_MarkupCompile.lref" />
+    <None Include="Labs\Lab5\obj\x86\Debug\MainWindow.baml" />
+    <None Include="Labs\Lab5\Properties\Settings.settings" />
+    <None Include="Labs\Labs.sln.DotSettings" />
+    <None Include="Labs\Labs.suo" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Labs\Lab4GameControls\Assets\background.png" />
+    <Resource Include="Labs\Lab4GameControls\Assets\bomb.png" />
+    <Resource Include="Labs\Lab4GameControls\Assets\bomber.png" />
+    <Resource Include="Labs\Lab4GameControls\Assets\bum.png" />
+    <Resource Include="Labs\Lab4GameControls\Assets\desert-4682.jpg" />
+    <Resource Include="Labs\Lab4GameControls\Assets\target.png" />
+    <Content Include="Labs\Lab4GameControls\bin\Debug\Lab4GameControls.dll" />
+    <Content Include="Labs\Lab4GameControls\bin\Debug\Lab4GameControls.pdb" />
+    <Content Include="Labs\Lab4GameControls\Lab4GameControls.csproj" />
+    <Resource Include="Labs\Lab4GameControls\obj\Debug\Lab4GameControls.csproj.FileListAbsolute.txt" />
+    <Content Include="Labs\Lab4GameControls\obj\Debug\Lab4GameControls.dll" />
+    <Content Include="Labs\Lab4GameControls\obj\Debug\Lab4GameControls.pdb" />
+    <Content Include="Labs\Lab4GameControls\obj\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="Labs\Lab4Game\bin\Debug\Lab4Game.exe" />
+    <Content Include="Labs\Lab4Game\bin\Debug\Lab4Game.pdb" />
+    <Content Include="Labs\Lab4Game\bin\Debug\Lab4Game.vshost.exe" />
+    <Content Include="Labs\Lab4Game\bin\Debug\Lab4GameControls.dll" />
+    <Content Include="Labs\Lab4Game\bin\Debug\Lab4GameControls.pdb" />
+    <Content Include="Labs\Lab4Game\Lab4Game.csproj" />
+    <Resource Include="Labs\Lab4Game\obj\x86\Debug\Lab4Game.csproj.FileListAbsolute.txt" />
+    <Content Include="Labs\Lab4Game\obj\x86\Debug\Lab4Game.exe" />
+    <Content Include="Labs\Lab4Game\obj\x86\Debug\Lab4Game.pdb" />
+    <Content Include="Labs\Lab4Game\obj\x86\Debug\TempPE\Properties.Resources.Designer.cs.dll" />
+    <Content Include="Labs\Lab5\bin\Debug\Lab5.exe" />
+    <Content Include="Labs\Lab5\bin\Debug\Lab5.pdb" />
+    <Content Include="Labs\Lab5\bin\Debug\Lab5.vshost.exe" />
+    <Content Include="Labs\Lab5\Lab5.csproj" />
+    <Resource Include="Labs\Lab5\obj\x86\Debug\Lab5.csproj.FileListAbsolute.txt" />
+    <Content Include="Labs\Lab5\obj\x86\Debug\Lab5.exe" />
+    <Content Include="Labs\Lab5\obj\x86\Debug\Lab5.pdb" />
+    <Content Include="Labs\Labs.sln" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Labs\Lab5\obj\x86\Debug\TempPE\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

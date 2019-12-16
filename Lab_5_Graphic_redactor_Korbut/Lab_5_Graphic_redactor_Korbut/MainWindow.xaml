@@ -1,0 +1,63 @@
+﻿<Window x:Class="Lab_5_Graphic_redactor_Korbut.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_5_Graphic_redactor_Korbut"
+        mc:Ignorable="d"
+        Title="{Binding MyTitle, RelativeSource={RelativeSource Mode=Self}}" Height="450" Width="800" Name="winMain">
+    <Window.Resources>
+        <Style x:Key="tbButton">
+            <Setter Property="Button.FontSize" Value="10" />
+            <Setter Property="Button.FontFamily" Value="Verdana" />
+            <Setter Property="Button.HorizontalAlignment" Value="Center" />
+            <Setter Property="Button.BorderThickness" Value="1"/>
+            <Setter Property="Button.BorderBrush" Value="Black" />
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="25"/>
+            <RowDefinition/>
+            <RowDefinition Height="20"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="700"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Menu Height="25" Grid.Row="0" Grid.ColumnSpan="2">
+            <MenuItem Header="File">
+                <MenuItem Header="Open file" Click="MenuItem_OpenFile_Click"/>
+                <MenuItem Header="Save file" Click="MenuItem_SaveFile_Click"/>
+                <MenuItem Header="Clear all" Click="MenuItem_Clear_Click"/>
+                <Separator />
+                <MenuItem Header="Exit" Click="MenuItem_Exit_Click"/>
+            </MenuItem>
+            <MenuItem Header="Properties">
+                <MenuItem Header="Line thikness" Click="MenuItem_LineThickness_Click"/>
+                <MenuItem Header="Fill color" Click="MenuItem_Fill_color_Click"/>
+                <MenuItem Header="Line color" Click="MenuItem_Click"/>
+            </MenuItem>
+            <MenuItem Header="About" Click="MenuItem_About_Click"/>
+        </Menu>
+        <Canvas Name="Canvas" Grid.Row="1" Grid.Column="0" MouseMove="Canvas_mouse_move" Background="Transparent" MouseDown="Canvas_MouseDown">
+        </Canvas>
+        <StackPanel Grid.Row="2" Grid.ColumnSpan="2" Orientation="Horizontal" Background="#FFD8ECF1" >
+            <Label Content="Mouse coordinates" Height="20" Width="100"  FontSize="9"/>
+            <TextBlock Name="Mouse_coordianates" Width="100" Height="19" FontSize="9" Background="#FFD5E3EE" TextAlignment="Center" />
+        </StackPanel>
+        <ToolBarTray Orientation="Vertical" Grid.Row="1" Grid.Column="1">
+            <ToolBar Width="100" VerticalAlignment="Top">
+                <Button Width="80" Height="30" Background="#FFC1FCE8" Content="Open" Click="MenuItem_OpenFile_Click" Style="{StaticResource tbButton}"/>
+                <Button Width="80" Height="30" Background="#FFC1FCE8" Content="Save" Click="MenuItem_SaveFile_Click" Style="{StaticResource tbButton}"/>
+                <Button Width="80" Height="30" Background="#FFC1FCE8" Content="Clear" Click="MenuItem_Clear_Click" Style="{StaticResource tbButton}"/>
+                <Separator BorderBrush="Gray" />
+                <Button Width="80" Height="30" Background="#FFC1FCE8" Content="Line Thickness" Click="MenuItem_LineThickness_Click" Style="{StaticResource tbButton}"/>
+                <Button Width="80" Height="30" Background="#FFC1FCE8" Content="Fill color" Click="MenuItem_Fill_color_Click" Style="{StaticResource tbButton}"/>
+                <Button Width="80" Height="30" Background="#FFC1FCE8" Content="Line color" Click="MenuItem_Click" Style="{StaticResource tbButton}"/>
+                <Separator BorderBrush="Gray" />
+                <Button Width="80" Height="30" Background="#FFC1FCE8" Content="EXIT" Click="MenuItem_Exit_Click" Style="{StaticResource tbButton}"/>
+            </ToolBar>
+        </ToolBarTray>
+    </Grid>
+</Window>

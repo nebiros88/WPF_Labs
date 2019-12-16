@@ -1,0 +1,109 @@
+﻿<Window x:Class="task_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:task_2"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="540" Width="800">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="true">
+                    <Setter Property="ToolTip" Value="{Binding RelativeSource={x:Static RelativeSource.Self},
+                        Path=(Validation.Errors)[0].ErrorContent}"/>
+                    <Setter Property="Background" Value="Pink"/>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid Name="grid" Background="SteelBlue">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="40"/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Label  Grid.Row="0" Grid.Column="0" Background="#FF2A2A94" Foreground="White" FontSize="28" HorizontalContentAlignment="Center"
+                Grid.ColumnSpan="2">
+            Staff Data
+        </Label>
+        <GroupBox Header="View Menu" Grid.Row="1" Grid.Column="1" Grid.RowSpan="4">
+            <ScrollViewer VerticalScrollBarVisibility="Auto">
+                <ListBox Name="lStaffs" ItemsSource="{Binding Path=staffs}">
+                </ListBox>
+            </ScrollViewer>
+        </GroupBox>
+        <Label Content="FName" Grid.Column="0"  Height="40" Width="90" Grid.Row="1" Margin="20,5,300,50" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"
+               FontSize="16">
+        </Label>
+        <TextBox Name="Fname" Text="{Binding Path=fName}" Grid.Column="0" Grid.Row="1" Height="40" Width="250" Margin="100,5,0,50" BorderBrush="Gray" BorderThickness="2"
+                 HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="12">
+        </TextBox>
+        <Label Content="LName" Grid.Column="0"  Height="40" Width="90" Grid.Row="1" Margin="20,50,300,0" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"
+               FontSize="16">
+        </Label>
+        <TextBox Name="Lname" Text="{Binding Path=lName}" Grid.Column="0" Grid.Row="1" Height="40" Width="250" Margin="100,50,0,0" BorderBrush="Gray" BorderThickness="2"
+                 HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="12">
+        </TextBox>
+        <Label Content="City" Grid.Column="0"  Height="40" Width="90" Grid.Row="2" Margin="20,5,300,50" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"
+               FontSize="16">
+        </Label>
+        <ComboBox Name="City" SelectedValue="{Binding Path=city}" Grid.Column="0" Grid.Row="2" Height="40" Width="250" Margin="100,5,0,50" BorderBrush="Gray" BorderThickness="2" IsEditable="True">
+        </ComboBox>
+        <Label Content="Street" Grid.Column="0"  Height="40" Width="90" Grid.Row="2" Margin="20,50,300,0" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"
+               FontSize="16">
+        </Label>
+        <ComboBox Name="Street" SelectedValue="{Binding Path=street}" Grid.Column="0" Grid.Row="2" Height="40" Width="250" Margin="100,55,0,0" BorderBrush="Gray" BorderThickness="2" IsEditable="True">
+        </ComboBox>
+        <Label Content="Home" Grid.Column="0"  Height="40" Width="90" Grid.Row="3" Margin="20,5,300,50" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"
+               FontSize="16">
+        </Label>
+        <TextBox Name="Home" Text="{Binding Path=home}" Grid.Column="0" Grid.Row="3" Height="40" Width="250" Margin="100,5,0,50" BorderBrush="Gray" BorderThickness="2"
+                 HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="12" >
+        </TextBox>
+        <Label Content="Position" Grid.Column="0"  Height="40" Width="90" Grid.Row="3" Margin="20,55,300,0" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"
+               FontSize="16">
+        </Label>
+        <ComboBox Name="Position" SelectedValue="{Binding Path=position}" Grid.Column="0" Grid.Row="3" Height="40" Width="250" Margin="100,55,0,0" BorderBrush="Gray" BorderThickness="2" IsEditable="True">
+        </ComboBox>
+        <Label Content="Sallary" Grid.Column="0"  Height="40" Width="90" Grid.Row="4" Margin="20,5,300,50" HorizontalContentAlignment="Left" VerticalContentAlignment="Center"
+               FontSize="16">
+        </Label>
+        <TextBox Name="Sallary" Text="{Binding Path=sallary}" Grid.Column="0" Grid.Row="4" Height="40" Width="250" Margin="100,5,0,50" BorderBrush="Gray" BorderThickness="2"
+                 HorizontalContentAlignment="Left" VerticalContentAlignment="Center" FontSize="12">
+        </TextBox>
+        <Button Name="CreateStaff" Content="Create staff" Grid.Column="0" Grid.Row="4" Height="40" Width="150" Margin="20,55,230,0" FontSize="16" ToolTipService.ShowDuration="5000" Click="CreateStaff_Click">
+            <Button.ToolTip>
+                Создать работника
+            </Button.ToolTip>
+        </Button>
+        <Button Name="Clear" Content="Clear all" Grid.Column="0" Grid.Row="4" Height="40" Width="150" Margin="180,55,0,0" FontSize="16" ToolTipService.ShowDuration="5000" Click="Clear_Click">
+            <Button.ToolTip>
+                Очистить поля
+            </Button.ToolTip>
+        </Button>
+        <Button Name="AddCity" Content="Add city" Grid.Column="0" Grid.Row="5" Height="20" Width="140" Margin="15,0,230,50" Click="AddCity_Click">
+            </Button>
+        <TextBox Name="tbAddCity" Grid.Column="0" Grid.Row="5" Height="20" Width="200" Margin="160,0,10,50">
+        </TextBox>
+        <Button Name="AddStreet" Content="Add street" Grid.Column="0" Grid.Row="5" Height="20" Width="140" Margin="15,5,230,0" Click="AddStreet_Click">
+        </Button>
+        <TextBox Name="tbAddStreet" Grid.Column="0" Grid.Row="5" Height="20" Width="200" Margin="160,5,10,0">
+        </TextBox>
+        <Button Name="AddPosition" Content="Add position" Grid.Column="0" Grid.Row="5" Height="20" Width="140" Margin="15,60,230,0" Click="AddPosition_Click">
+        </Button>
+        <TextBox Name="tbAddPosition" Grid.Column="0" Grid.Row="5" Height="20" Width="200" Margin="160,60,10,0">
+        </TextBox>
+        <Button Content="Exit" Grid.Column="1" Grid.Row="5" Height="20" Width="100" Margin="280,60,10,0" Click="Exit_Click">
+        </Button>
+        <Button Name="ShowList" Content="Show list" Grid.Column="1" Grid.Row="5" Height="20" Width="100" Margin="15,0,290,50" Click="ShowList_Click">
+        </Button>
+    </Grid>
+</Window>

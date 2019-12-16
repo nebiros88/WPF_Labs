@@ -1,0 +1,15 @@
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\obj\Debug\Running_button.csprojAssemblyReference.cache
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\obj\Debug\App.g.cs
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\obj\Debug\Running_button_MarkupCompile.cache
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\bin\Debug\Running_button.exe.config
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\bin\Debug\Running_button.exe
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\bin\Debug\Running_button.pdb
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\obj\Debug\MainWindow.g.cs
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\obj\Debug\Running_button_MarkupCompile.lref
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\obj\Debug\MainWindow.baml
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\obj\Debug\Running_button.g.resources
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\obj\Debug\Running_button.Properties.Resources.resources
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\obj\Debug\Running_button.csproj.GenerateResource.cache
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\obj\Debug\Running_button.csproj.CoreCompileInputs.cache
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\obj\Debug\Running_button.exe
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_2_Running_button_Korbut\Running_button\obj\Debug\Running_button.pdb

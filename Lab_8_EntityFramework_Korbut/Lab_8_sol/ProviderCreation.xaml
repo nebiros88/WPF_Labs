@@ -1,0 +1,46 @@
+﻿<Window x:Class="Lab_8_sol.ProviderCreation"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_8_sol"
+        mc:Ignorable="d"
+        Title="ProviderCreation" Height="330" Width="300">
+    <Window.Resources>
+        <Style TargetType="TextBox">
+            <Setter Property="TextAlignment" Value="Center"/>
+            <Setter Property="VerticalContentAlignment" Value="Center"/>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="240"/>
+            <RowDefinition Height="60"/>
+        </Grid.RowDefinitions>
+        <GroupBox Grid.Row="0" Padding="10" Header="CreateProvider" Name="groupBox">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Label Grid.Row="0" Height="30" Width="100" HorizontalAlignment="Left">Company Name
+                </Label>
+                <TextBox Name="tbName" Grid.Row="0" Height="30" Width="150" HorizontalAlignment="Right" >
+                </TextBox>
+                <Label Grid.Row="1" Height="30" Width="100" HorizontalAlignment="Left">Power
+                </Label>
+                <TextBox Name="tbPower" Grid.Row="1" Height="30" Width="150" HorizontalAlignment="Right">
+                </TextBox>
+                <Label Grid.Row="2" Height="30" Width="100" HorizontalAlignment="Left">Subscribers
+                </Label>
+                <TextBox Name="tbSubscribers" Grid.Row="2" Height="30" Width="150" HorizontalAlignment="Right">
+                </TextBox>
+            </Grid>
+        </GroupBox>
+        <Button Name="btOk" Grid.Row="1" Height="25" Width="70" Margin="15,0,130,0" Click="Button_btOk_Click"> OK
+        </Button>
+        <Button Name="btCancel" Grid.Row="1" Height="25" Width="70" Margin="130,0,15,0" Click="BtCancel_Click">Cancel
+        </Button>
+    </Grid>
+</Window>

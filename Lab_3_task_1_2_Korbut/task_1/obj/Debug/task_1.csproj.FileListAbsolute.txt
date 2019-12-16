@@ -1,0 +1,15 @@
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\bin\Debug\task_1.exe.config
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\bin\Debug\task_1.exe
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\bin\Debug\task_1.pdb
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\obj\Debug\task_1.csprojAssemblyReference.cache
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\obj\Debug\MainWindow.g.cs
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\obj\Debug\App.g.cs
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\obj\Debug\task_1_MarkupCompile.cache
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\obj\Debug\task_1_MarkupCompile.lref
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\obj\Debug\MainWindow.baml
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\obj\Debug\task_1.g.resources
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\obj\Debug\task_1.Properties.Resources.resources
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\obj\Debug\task_1.csproj.GenerateResource.cache
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\obj\Debug\task_1.csproj.CoreCompileInputs.cache
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\obj\Debug\task_1.exe
+C:\Users\Korbut\Documents\BSUIR\Корбут\СВПП_Вариант_10_Корбут_80331\Lab_3_task_1_2_Korbut\task_1\obj\Debug\task_1.pdb

@@ -1,0 +1,67 @@
+﻿<UserControl x:Class="Lab4GameControls.GameControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:lgc="clr-namespace:Lab4GameControls"
+             mc:Ignorable="d" 
+             d:DesignHeight="720" d:DesignWidth="1280">
+
+    <UserControl.Resources>
+        <BooleanToVisibilityConverter x:Key="BooleanToVisibilityConverter1" />
+    </UserControl.Resources>
+
+    <UserControl.CommandBindings>
+        <CommandBinding Command="lgc:GameCommands.Start" Executed="StartCommandBinding_OnExecuted" CanExecute="StartCommandBinding_OnCanExecute"/>
+        <CommandBinding Command="lgc:GameCommands.Pause" Executed="PauseCommandBinding_OnExecuted" CanExecute="PauseCommandBinding_OnCanExecute"/>
+        <CommandBinding Command="lgc:GameCommands.Reset" Executed="ResetCommandBinding_OnExecuted" CanExecute="ResetCommandBinding_OnCanExecute"/>
+        <CommandBinding Command="lgc:GameCommands.Fire" Executed="FireCommandBinding_OnExecuted" CanExecute="FireCommandBinding_OnCanExecute"/>
+    </UserControl.CommandBindings>
+
+    <Grid>
+
+        <Canvas ClipToBounds="True" UseLayoutRounding="False">
+            <Canvas.DataContext>
+                <lgc:Scene x:Name="Context">
+                    <lgc:Scene.Bomber>
+                        <lgc:Bomber ObjectRect="00,600,200,60"/>   
+                    </lgc:Scene.Bomber>
+
+                    <lgc:Scene.Panzer>
+                        <lgc:Panzer ObjectRect="600,50,200,100"/>   
+                    </lgc:Scene.Panzer>
+
+                    <lgc:Scene.Bomb>
+                        <lgc:Bomb ObjectRect="0,0,20,40" IsEnabled="False"/>   
+                    </lgc:Scene.Bomb>
+                </lgc:Scene>
+            </Canvas.DataContext>
+
+            <Canvas.LayoutTransform>
+                <ScaleTransform ScaleY="-1"/>
+            </Canvas.LayoutTransform>
+
+            <Canvas.Resources>
+                <Style TargetType="Image">
+                    <Setter Property="Source" Value="{Binding Image}"/>
+                    <Setter Property="Canvas.Left" Value="{Binding Path=ObjectRect.X}"/>
+                    <Setter Property="Canvas.Top" Value="{Binding Path=ObjectRect.Y}"/>
+                    <Setter Property="Width" Value="{Binding Path=ObjectRect.Width}"/>
+                    <Setter Property="Height" Value="{Binding Path=ObjectRect.Height}"/>
+                    <Setter Property="Stretch" Value="Fill"/>
+                    <Setter Property="Visibility" Value="{Binding Path=IsEnabled, Converter={StaticResource BooleanToVisibilityConverter1}}"/>
+                    <Setter Property="LayoutTransform">
+                        <Setter.Value>
+                            <ScaleTransform ScaleY="-1"/>
+                        </Setter.Value>
+                    </Setter>
+                </Style>
+            </Canvas.Resources>
+
+            <Image MouseLeftButtonUp="Element_OnMouseLeftButtonUp" Source="/Lab4GameControls;component/Assets/bomber.png" DataContext="{Binding Path=Bomber}"/>
+            <Image DataContext="{Binding Path=Panzer}"/>
+            <Image MouseLeftButtonUp="Element_OnMouseLeftButtonUp" DataContext="{Binding Path=Bomb}"/>
+        </Canvas>
+
+    </Grid>
+</UserControl>
