@@ -91,14 +91,19 @@ namespace Lab_8_sol
                 }
                 else
                 {
-                    Provider provider = db.Providers.Find(editProvider.Id);
-                    provider.Name = editWindow.tbName.Text;
-                    provider.Power = int.Parse(editWindow.tbPower.Text.ToString());
-                    provider.Subscribers = int.Parse(editWindow.tbSubscribers.Text.ToString());
-                    db.SaveChanges();
-                    UpdateData();
-                    MessageBox.Show("The data was successfully changed!");
-
+                    try
+                    {
+                        Provider provider = db.Providers.Find(editProvider.Id);
+                        provider.Name = editWindow.tbName.Text;
+                        provider.Power = int.Parse(editWindow.tbPower.Text.ToString());
+                        provider.Subscribers = int.Parse(editWindow.tbSubscribers.Text.ToString());
+                        db.SaveChanges();
+                        UpdateData();
+                        MessageBox.Show("The data was successfully changed!");
+                    }
+                    catch (Exception ex) {
+                        MessageBox.Show($"Not successfully! Reason is: -{ex.Message}");
+                    }
                 }
             }
             else {
@@ -109,7 +114,7 @@ namespace Lab_8_sol
         private void BtnDelete_Click(object sender, RoutedEventArgs e)
         {
             if (providersGrid.SelectedIndex > -1) {
-                var result = MessageBox.Show("Are you sure?", "Delete this data&", MessageBoxButton.YesNo);
+                var result = MessageBox.Show("Are you sure?", "Delete this data?", MessageBoxButton.YesNo);
                 if (result == MessageBoxResult.Yes) {
                     Provider delProvider = providersGrid.SelectedItem as Provider;
                     db.Providers.Remove(delProvider);
